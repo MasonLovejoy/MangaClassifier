@@ -1,11 +1,15 @@
 # Manga Classifier
 
+IMPORT NOTES:
+This is a re-upload of an older github project on another account I lost access to. The website server as well I do not have access to so I decided
+to shut down the website.
+
 Manga Classifier is python machine learning application using pytorch. The main basis for classifying the manga is a convolutional neural network.
 After the model was trained a website was created to deploy the model in order to check to see how pytorch deploys models.
 
 ## Usage
 
-The model can be tested on www.mangaclassifier.com and currently has a 87% accuracy for 19 manga. Current sortable manga are: 
+The model was uploaded on www.mangaclassifier.com and currently has a 87% accuracy for 19 manga. Current sortable manga are: 
 Baki, Berserk, Bleach, Eyeshield 21, Fairy Tail, Food Wars!: Shokugeki no Soma, Gantz, Gintama, Haikyu!, Hajime no Ippo, 
 Hunter x Hunter, Inuyasha, Jojo's Bizzare Adventure, Kingdom, Naruto, One Piece, Pokémon Adventures, Slamdunk, and Vagabond.
 
